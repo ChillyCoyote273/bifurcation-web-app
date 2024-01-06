@@ -36,7 +36,7 @@
     "Cargo.update.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Olive/RustroverProjects/bifurcation-web-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -151,7 +151,7 @@
       <workItem from="1704483480588" duration="3859000" />
       <workItem from="1704500273845" duration="311000" />
       <workItem from="1704500592512" duration="106000" />
-      <workItem from="1704500725282" duration="531000" />
+      <workItem from="1704500725282" duration="844000" />
     </task>
     <servers />
   </component>
